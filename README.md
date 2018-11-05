@@ -31,7 +31,7 @@ factores y con que porcentaje evaluará a sus alumnos de cada grupo.
         * Bootstrap
         * CSS
         * SASS
-    * Funcional (JS + Otro lenguaje que no sea de juguete)
+    * Funcional (JS + Otro lenguaje)
 
 * Backend
     * Escalable
