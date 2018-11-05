@@ -1,4 +1,4 @@
 # Drapery
 
 {Borrador}
-AAahh Kmara
+No no es sierto krnal
