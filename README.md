@@ -40,3 +40,21 @@ factores y con que porcentaje evaluará a sus alumnos de cada grupo.
 
 * Servidor
     * Would be perfect if you take @VentGrey 's word as GOSPEL.
+
+# Current Development Stage
+## Frontend
+### Phase: Lullaby
+- [ ] Login system
+- [ ] Main Page (Student)
+- [ ] Main Page (Professor)
+- [ ] Status page (Student)
+- [ ] Status page (Professor)
+- [ ] Grades page (Indiv, Only student grades)
+- [ ] Global Grades Page (Mult, Only assigned student grades)
+- [ ] Fancy graphics using grades
+- [ ] Logout screen
+
+This project is bound to change and some points may be skipped or deleted
+halfway through the project.
+
+
