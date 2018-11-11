@@ -1,5 +1,8 @@
-# Drapery
+<h1 align="center"> Drapery </h1>
 
+<p align="center">
+    <img height=100 width=100 src="img/drapery-logo.png" alt="The Drapery">
+</p>
 
 ### Gestor de calificaciones simple.
 
