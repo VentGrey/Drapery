@@ -63,18 +63,19 @@ halfway through the project.
 Estilos de color propuestos:
 * Colores POP!_GTK (Basados en POP! OS)
 
-- ![#3B3633](https://placehold.it/15/3B3633/000000?text=+) `#3B3633` (Bordes)
+- ![#3B3633](https://placehold.it/15/3B3633/000000?text=+) `#3B3633` (Encabezados)
 - ![#FAA41A](https://placehold.it/15/FAA41A/000000?text=+) `#FAA41A` (Énfasis 1)
 - ![#48B9C7](https://placehold.it/15/48B9C7/000000?text=+) `#48B9C7` (Énfasis 2)
+- ![#194145](https://placehold.it/15/194145/000000?text=+) `#194145` (Énfasis 3)
 - ![#6C6560](https://placehold.it/15/6C6560/000000?text=+) `#6C6560` (Elementos)
 - ![#BCB9B7](https://placehold.it/15/BCB9B7/000000?text=+) `#BCB9B7` (Botones Claro)
 - ![#95908D](https://placehold.it/15/95908D/000000?text=+) `#95908D` (Botones Oscuro)
 - ![#FFFFFF](https://placehold.it/15/FFFFFF/000000?text=+) `#FFFFFF` (Fondo Claro)
 - ![#F5F5F5](https://placehold.it/15/F5F5F5/000000?text=+) `#F5F5F5` (Fondo Claro 2)
+- ![#443D3A](https://placehold.it/15/443D3A/000000?text=+) `#443D3A` (Fondo Oscuro)
 
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+Foto de ejemplo:
+
+![Pop_foto](https://raw.githubusercontent.com/pop-os/gtk-theme/master_cosmic/screenshots/main.png)
+
+
