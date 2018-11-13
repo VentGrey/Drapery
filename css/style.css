@@ -1,0 +1,18 @@
+/* Estilos para el cuerpo del HTML */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF; /* Agregar una imágen luego :3 */
+}
+
+/* Estilos para la caja de sesion */
+.login_box {
+    position: absolute;
+    top: 50%;
+    left: 50;
+    transform: translate(-50%,-50%);
+    width: 350px;
+    min-height: 200px;
+    background: #FFFFFF;
+    border-radius: 8px;
+}
