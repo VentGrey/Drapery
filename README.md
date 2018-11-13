@@ -60,4 +60,21 @@ factores y con que porcentaje evaluará a sus alumnos de cada grupo.
 This project is bound to change and some points may be skipped or deleted
 halfway through the project.
 
+Estilos de color propuestos:
+* Colores POP!_GTK (Basados en POP! OS)
 
+- ![#3B3633](https://placehold.it/15/3B3633/000000?text=+) `#3B3633` (Bordes)
+- ![#FAA41A](https://placehold.it/15/FAA41A/000000?text=+) `#FAA41A` (Énfasis 1)
+- ![#48B9C7](https://placehold.it/15/48B9C7/000000?text=+) `#48B9C7` (Énfasis 2)
+- ![#6C6560](https://placehold.it/15/6C6560/000000?text=+) `#6C6560` (Elementos)
+
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
