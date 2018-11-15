@@ -29,7 +29,7 @@ p.password {
     padding: 5px;
 }
 
-input { /* Need to add classes, otherwise new pages won't work */
+input.usr {
     font-weight: normal;
     font-family: 'Fira Sans', sans-serif;
     font-size: 14px;
@@ -39,5 +39,31 @@ input { /* Need to add classes, otherwise new pages won't work */
     background: transparent;
     border-bottom: 2px solid #757271;
     width: 272px;
+}
+
+
+input.pass {
+    font-weight: normal;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 14px;
+    color: #FFFFFF;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 2px solid #757271;
+    width: 272px;
+}
+
+input.login-btn {
+    font-weight: bold;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 17px;
+    color: #FFFFFF;
+    background-color: #3e935b;
+    border: unset;
+    border-radius: 5px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.24), 0 2px 2px 0 rgba(0,0,0,0.19);
+    width: 81px;
+    height: 37px;
 }
 /* Fin de los estilos para el login */
