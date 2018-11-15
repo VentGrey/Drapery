@@ -66,4 +66,14 @@ input.login-btn {
     width: 81px;
     height: 37px;
 }
+
+a.forgot {
+    font-weight: bold;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 12px;
+    color: #FFFFFF;
+    padding: 5px;
+    width: 128px;
+    height: 19px;
+}
 /* Fin de los estilos para el login */
