@@ -28,18 +28,18 @@ factores y con que porcentaje evaluará a sus alumnos de cada grupo.
     * Normalizada
     * Optimizada para integridad referencial
 
-* Fontend
+* Frontend
     * Si se realiza en JS seguir el estándar ECMASCRIPT 7
     * Responsividad:
-        * Bootstrap
-        * CSS
+        * Bootstrap 4
+        * CSS 3
         * SASS
-    * Funcional (JS + Otro lenguaje)
+    * Funcional (JS + Otro lenguaje (Preferiblemente PHP o Python + Django))
 
 * Backend
     * Escalable
-    * Compatible con PostgreSQL
-    * Buena seguridad
+    * Compatible con PostgreSQL (Tomar en cuenta con Django que usa SQLite 3)
+    * Buena seguridad (De eso se encargará el de servidores)
 
 * Servidor
     * Would be perfect if you take @VentGrey 's word as GOSPEL.
