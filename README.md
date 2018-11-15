@@ -47,7 +47,7 @@ factores y con que porcentaje evaluará a sus alumnos de cada grupo.
 # Current Development Stage
 ## Frontend
 ### Phase: Lullaby
-- [ ] Login system
+- [x] Login system
 - [ ] Main Page (Student)
 - [ ] Main Page (Professor)
 - [ ] Status page (Student)
