@@ -60,6 +60,21 @@
 	});
 </script>
 
+<script type="text/javascript">
+    // Crear la instancia main de la aplicación
+    let mf_main =  null;
+
+    $(window).resize(function() {
+	    if(mf_main) {
+		    mf_main.interfaceResize();
+	    }
+
+    });
+
+$(window).resize();
+</script>
+
+  </head>
   <body>
 
   </body>
