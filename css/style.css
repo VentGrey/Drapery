@@ -29,7 +29,11 @@ p.password {
     padding: 5px;
 }
 
-input { /* Doesn't Work idk why */
+input { /* Need to add classes, otherwise new pages won't work */
+    font-weight: normal;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 14px;
+    color: #FFFFFF;
     border: 0;
     outline: 0;
     background: transparent;
