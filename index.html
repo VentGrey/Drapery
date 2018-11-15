@@ -39,28 +39,22 @@
   <script type="text/javascript" src="https://d20hhedk3h2l88.cloudfront.net/apps/wireframepro/external/js/multiline.min.js"></script>
   <script type="text/javascript" src="https://d20hhedk3h2l88.cloudfront.net/apps/wireframepro/external/js/jquery.address-1.5.min.js"></script>
 
-<!-- internal js files -->
-<script type="text/javascript" src="js/internal/mf_wireframepro-min.js?v=2018_11_12_21_53_27"></script>
+  <!-- internal js files -->
+  <script type="text/javascript" src="js/internal/mf_wireframepro-min.js?v=2018_11_12_21_53_27"></script>
 
-<script type="text/javascript">
+  <script type="text/javascript">
+	  $(document).ready(function()
+	    {
+	    	mf_main = new MF_Main();
 
+		    mf_main.PUBLIC = true;
 
-	$(document).ready(function()
-	{
+		    mf_main.onLoadInterface();
 
+	  });
+  </script>
 
-		mf_main = new MF_Main();
-
-
-		mf_main.PUBLIC = true;
-
-
-		mf_main.onLoadInterface();
-
-	});
-</script>
-
-<script type="text/javascript">
+  <script type="text/javascript">
     // Crear la instancia main de la aplicación
     let mf_main =  null;
 
@@ -71,11 +65,11 @@
 
     });
 
-$(window).resize();
-</script>
-
-  </head>
-  <body>
+    $(window).resize();
+    </script>
+</head>
+<body id="main_body" class="notranslate" translate="no" style="display:none; overflow: hidden;">
+  
 
   </body>
 </html>
