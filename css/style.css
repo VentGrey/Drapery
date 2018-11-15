@@ -1,6 +1,13 @@
-/* Estilos para el cuerpo del HTML */
+/* Estilos para el login */
 body.index {
     margin: 0;
     padding: 0;
     background-color: #393533;
 }
+
+p.title {
+    font-size: 40px;
+    color: #FFFFFF;
+}
+
+/* Fin de los estilos para el login */
