@@ -29,15 +29,15 @@ factores y con que porcentaje evaluará a sus alumnos de cada grupo.
     * Optimizada para integridad referencial
 
 * Frontend
-    * Si se realiza en JS seguir el estándar ECMASCRIPT 7
-    * Responsividad:
-        * Bootstrap 4
-        * CSS 3
-        * SASS
+    * Si se realiza en JavaScript seguir el estándar ECMASCRIPT 7
+        * Responsividad:
+            * Bootstrap 4
+            * CSS 3
+            * SASS
     * Funcional (JS + Otro lenguaje (Preferiblemente PHP o Python + Django))
 
 * Backend
-    * Escalable
+    * Escalable (Gestor o panel incluido)
     * Compatible con PostgreSQL (Tomar en cuenta con Django que usa SQLite 3)
     * Buena seguridad (De eso se encargará el de servidores)
 
@@ -46,8 +46,8 @@ factores y con que porcentaje evaluará a sus alumnos de cada grupo.
 
 # Current Development Stage
 ## Frontend
-### Phase: Lullaby
-- [x] Login system
+### Phase: Silhouette
+- [x] Login system :heavy_check_mark: @VentGrey
 - [ ] Main Page (Student)
 - [ ] Main Page (Professor)
 - [ ] Status page (Student)
