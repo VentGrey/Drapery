@@ -6,9 +6,34 @@ body.index {
 }
 
 p.title {
+    font-weight: bold;
     font-family: 'Fira Sans', sans-serif;
     font-size: 40px;
     color: #FFFFFF;
+    padding: 5px;
 }
 
+p.username {
+    font-weight: normal;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 18px;
+    color: #7c7978;
+    padding: 5px;
+}
+
+p.password {
+    font-weight: normal;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 18px;
+    color: #7c7978;
+    padding: 5px;
+}
+
+input { /* Doesn't Work idk why */
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 2px solid #757271;
+    width: 272px;
+}
 /* Fin de los estilos para el login */
