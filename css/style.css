@@ -1,8 +1,24 @@
+/* Reset border box */
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
 /* Estilos para el login */
 body.index {
     margin: 0;
     padding: 0;
     background-color: #393533;
+}
+
+div.title-image {
+    margin-top: 18%;
+    margin-bottom: 13%;
+    margin-left: 12%;
+    margin-right: 30%;
 }
 
 p.title {
