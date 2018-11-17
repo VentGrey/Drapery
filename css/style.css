@@ -14,6 +14,13 @@ body.index {
     background-color: #393533;
 }
 
+div.father-div {
+    margin-top 50%;
+    margin-bottom: 50%;
+    margin-left: 30%;
+    margin-right 50%;
+}
+
 div.title-image {
     margin-top: 18%;
     margin-bottom: 13%;
