@@ -15,17 +15,31 @@ body.index {
 }
 
 div.father-div {
-    margin-top 50%;
-    margin-bottom: 50%;
-    margin-left: 30%;
-    margin-right 50%;
+    margin-top: none;
+    margin-bottom: none;
+    margin-left: none;
+    margin-right: none;
+
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
 }
 
 div.title-image {
-    margin-top: 18%;
-    margin-bottom: 13%;
-    margin-left: 12%;
-    margin-right: 30%;
+    float: left;
+    margin-top: 14%;
+    margin-bottom: 1%;
+    margin-left: 35%;
+    margin-right: 10%;
+}
+
+div.title-div {
+    float: right;
+    margin-top: -8.9%;
+    margin-bottom: 4%;
+    margin-left: 10%;
+    margin-right: 47%;
 }
 
 p.title {
