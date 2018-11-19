@@ -1,10 +1,17 @@
 /* Reset border box */
 html {
+    height: 100%;
+    width: 100%;
     box-sizing: border-box;
 }
 
 *, *:before, *:after {
     box-sizing: inherit;
+}
+
+body {
+    height: 100%;
+    width: 100%;
 }
 
 /* Estilos para el login */
@@ -72,7 +79,6 @@ input.login-btn {
     background-color: #3e935b;
     border: unset;
     border-radius: 5px;
-    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.24), 0 2px 2px 0 rgba(0,0,0,0.19);
     width: 81px;
     height: 37px;
 }
