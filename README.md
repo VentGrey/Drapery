@@ -31,9 +31,9 @@ factores y con que porcentaje evaluará a sus alumnos de cada grupo.
 * Frontend
     * Si se realiza en JavaScript seguir el estándar ECMASCRIPT 7
         * Responsividad:
-            * Bootstrap 4
-            * CSS 3
-            * SASS
+            * Bootstrap 4 :heavy_check_mark:
+            * CSS 3 :heavy_check_mark:
+            * SASS :heavy_check_mark:
     * Funcional (JS + Otro lenguaje (Preferiblemente PHP o Python + Django))
 
 * Backend
@@ -47,7 +47,7 @@ factores y con que porcentaje evaluará a sus alumnos de cada grupo.
 # Current Development Stage
 ## Frontend
 ### Phase: Silhouette
-- [x] Login system :heavy_check_mark: @VentGrey
+- [ ] Login system
 - [ ] Main Page (Student)
 - [ ] Main Page (Professor)
 - [ ] Status page (Student)
