@@ -1,8 +1,28 @@
 /* Reset border box */
 html {
+    font-size: 1rem;
     height: 100%;
     width: 100%;
     box-sizing: border-box;
+}
+
+/* Tipografía responsiva */
+@include media-breakpoint-up(sm) {
+  html {
+    font-size: 1.2rem;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  html {
+    font-size: 1.4rem;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  html {
+    font-size: 1.6rem;
+  }
 }
 
 *, *:before, *:after {
@@ -19,6 +39,11 @@ body.index {
     margin: 0;
     padding: 0;
     background-color: #393533;
+}
+
+div.title-image {
+    margin-top: 20%;
+    margin-left: 35%;
 }
 
 p.title {
