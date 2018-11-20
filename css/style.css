@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 body.index {
     background-color: #393533;
 }
-=======
+
 /* Reset border box */
 html {
     font-size: 1rem;
@@ -39,6 +38,7 @@ body {
     width: 100%;
 }
 
+
 /* Estilos para el login */
 body.index {
     margin: 0;
@@ -46,8 +46,17 @@ body.index {
     background-color: #393533;
 }
 
+div.father-div {
+     position: absolute;
+     width: auto;
+     height: auto;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+}
+
 div.title-image {
-    margin-top: 15%;
+    margin-top: none;
 }
 
 p.title {
@@ -56,20 +65,21 @@ p.title {
     font-size: 40px;
     color: #FFFFFF;
     margin-left: 100px;
-    padding-top: 16px;
+    padding-top: 17px;
     padding-left: 10px;
 }
 
 
 p.username {
+    float: left;
     font-weight: normal;
     font-family: 'Fira Sans', sans-serif;
     font-size: 18px;
     color: #7c7978;
-    padding: 5px;
 }
 
 p.password {
+    float: left;
     font-weight: normal;
     font-family: 'Fira Sans', sans-serif;
     font-size: 18px;
@@ -78,6 +88,7 @@ p.password {
 }
 
 input.usr {
+    float: left;
     font-weight: normal;
     font-family: 'Fira Sans', sans-serif;
     font-size: 14px;
@@ -103,6 +114,7 @@ input.pass {
 }
 
 input.login-btn {
+    float: right;
     font-weight: bold;
     font-family: 'Fira Sans', sans-serif;
     font-size: 17px;
@@ -115,6 +127,7 @@ input.login-btn {
 }
 
 a.forgot {
+    float: left;
     font-weight: bold;
     font-family: 'Fira Sans', sans-serif;
     font-size: 12px;
@@ -124,4 +137,3 @@ a.forgot {
     height: 19px;
 }
 /* Fin de los estilos para el login */
->>>>>>> parent of 863fb1d... Emptied progress to start over
