@@ -146,3 +146,17 @@ a.forgot {
     height: 19px;
 }
 /* Fin de los estilos para el login */
+
+/* Inicio de los estilos para el registro */
+
+h1.registro {
+    font-weight: bold;
+    font-family: 'Fira Sans', sans-serif;
+    color: #FFFFFF;
+}
+
+p.advice {
+    font-weight: bold;
+    font-family: 'Fira Sans', sans-serif;
+    color: #FFFFFF;
+}

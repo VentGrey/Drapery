@@ -41,7 +41,28 @@
 
   <body class="index">
     <div class="father-div">
+      <div class="container">
+        <form style="border:1px solid #ccc">
+          <h1 class="registro"> Registro </h1>
+          <p class="advice"> Por favor complete complete los campos del formulario para darse de alta. </p>
+          <hr>
+          <label for="email"><b>Correo electrónico</b></label>
+          <input type="text" placeholder="Ingrese su correo aquí" name="email" required>
+          <label for="psw"><b>Contraseña</b></label>
+          <input type="password" placeholder="Ingrese su contraseña" name="psw" required>
+          <label for="psw-repeat"><b>Repetir contraseña</b></label>
+          <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
+          <label>
+          <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
+          </label>
+          <p>Al crear una cuenta estás de acuerdo con nuestros<a href="#" style="color:dodgerblue">términos & política de privacidad</a>.</p>
 
+          <div class="clearfix">
+          <button type="button" class="cancelbtn">Cancelar</button>
+          <button type="submit" class="signupbtn">Registrarme</button>
+          </div>
+        </form>
+      </div>
     </div>
     <!--Bootstrap JavaScript-->
     <link rel="script" href="bootstrap/js/bootstrap.bundle.min.js">

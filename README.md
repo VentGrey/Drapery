@@ -34,12 +34,12 @@ factores y con que porcentaje evaluará a sus alumnos de cada grupo.
             * Bootstrap 4 :heavy_check_mark:
             * CSS 3 :heavy_check_mark:
             * SASS :heavy_check_mark:
-    * Funcional (JS + Otro lenguaje (Preferiblemente PHP o Python + Django))
+    * Funcional
 
 * Backend
-    * Escalable (Gestor o panel incluido)
-    * Compatible con PostgreSQL (Tomar en cuenta con Django que usa SQLite 3)
-    * Buena seguridad (De eso se encargará el de servidores)
+    * PHP
+    * NGINX
+    * PostgreSQl
 
 * Servidor
     * Would be perfect if you take @VentGrey 's word as GOSPEL.
@@ -48,6 +48,8 @@ factores y con que porcentaje evaluará a sus alumnos de cada grupo.
 ## Frontend
 ### Phase: Silhouette
 - [x] Login system
+- [ ] Sign up system
+- [ ] Terms of service & Conditions
 - [ ] Main Page (Student)
 - [ ] Main Page (Professor)
 - [ ] Status page (Student)
@@ -60,7 +62,7 @@ factores y con que porcentaje evaluará a sus alumnos de cada grupo.
 This project is bound to change and some points may be skipped or deleted
 halfway through the project.
 
-Proposed color styles:
+Used color style:
 
 # POP!_GTK Colors (POP! OS based)
 
