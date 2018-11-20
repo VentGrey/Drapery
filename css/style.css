@@ -100,6 +100,18 @@ input.usr {
     width: 272px;
 }
 
+input.usr:focus {
+    float: left;
+    font-weight: normal;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 14px;
+    color: #FFFFFF;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 2px solid #FAA41A;
+    width: 272px;
+}
 
 input.pass {
     font-weight: normal;
@@ -110,6 +122,19 @@ input.pass {
     outline: 0;
     background: transparent;
     border-bottom: 2px solid #757271;
+    width: 272px;
+}
+
+
+input.pass:focus {
+    font-weight: normal;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 14px;
+    color: #FFFFFF;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 2px solid #FAA41A;
     width: 272px;
 }
 
@@ -125,6 +150,7 @@ input.login-btn {
     width: 81px;
     height: 37px;
 }
+
 
 a.forgot {
     float: left;
