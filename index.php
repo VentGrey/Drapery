@@ -65,7 +65,7 @@
 
 
         <!--Botón de inicio de sesión-->
-        <input class="login-btn btn shadow-sm" type="button" value="Sign In"></br>
+        <input class="login-btn btn shadow-sm" type="button" value="Ingresar"></br>
 
       <div class="container">
         <a class="sign-up badge badge-info" href="signup.php">Crear una cuenta</a>
