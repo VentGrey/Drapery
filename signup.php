@@ -69,7 +69,7 @@
           <p class="advice">Al crear una cuenta estás de acuerdo con nuestros<a href="#" style="color:dodgerblue"> términos & política de privacidad</a>.</p>
 
           <div>
-          <button type="button" class="cancelbtn">Cancelar</button>
+          <button type="button" action="index.php" class="cancelbtn">Cancelar</button>
           <button type="submit" class="signupbtn btn btn-info">Registrarme</button>
           </div>
         </form>
