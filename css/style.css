@@ -149,14 +149,54 @@ a.forgot {
 
 /* Inicio de los estilos para el registro */
 
+form.main-window {
+    border: 15px;
+    border-style: solid;
+    border-color: #F6F6F6;
+    border-radius: 2px;
+    background-color: #F6F6F6;
+}
+
 h1.registro {
     font-weight: bold;
     font-family: 'Fira Sans', sans-serif;
-    color: #FFFFFF;
+    color: #4D4844;
 }
 
 p.advice {
+    font-size: 12px;
     font-weight: bold;
     font-family: 'Fira Sans', sans-serif;
-    color: #FFFFFF;
+    color: #4D4844;
+}
+
+label.sign-field {
+    font-family: 'Fira Sans', sans-serif;
+    color: #4D4844;
+}
+
+button.cancelbtn {
+    font-weight: normal;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 17px;
+    color: #4D4844;
+    background-color: #F6F6F6;
+    border: unset;
+    border-radius: 5px;
+    width: 81px;
+    height: 37px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 3px 10px 0 rgba(0,0,0,0.19);
+}
+
+button.signupbtn {
+    font-weight: normal;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 17px;
+    color: #4D4844;
+    background-color: #F6F6F6;
+    border: unset;
+    border-radius: 5px;
+    width: 110px;
+    height: 37px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 3px 10px 0 rgba(0,0,0,0.19);
 }
