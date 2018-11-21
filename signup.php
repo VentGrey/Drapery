@@ -46,9 +46,12 @@
   <body class="index">
     <div class="father-div">
       <div class="container">
-        <form class="form-group main-window">
-          <h1 class="registro"> Registro </h1>
-          <p class="advice"> Por favor complete complete los campos del formulario para darse de alta. </p>
+      <form class="form-group main-window">
+        <div class="container">
+            <img src="img/drapery-pop.png" width="100" height="100" class="rounded float-left align-middle" alt="Drapery">
+        </div>
+          <h1 class="registro display-4" align="center"> Registro </h1>
+          <p class="advice" align="center"> Por favor complete complete los campos del formulario para darse de alta. </p>
           <hr>
           <label class="sign-field" for="email"><b>Correo electrónico</b></label>
           <input type="text" class="form-control" placeholder="Ingrese su correo aquí" name="email" required>
@@ -67,7 +70,7 @@
 
           <div>
           <button type="button" class="cancelbtn">Cancelar</button>
-          <button type="submit" class="signupbtn">Registrarme</button>
+          <button type="submit" class="signupbtn btn btn-info">Registrarme</button>
           </div>
         </form>
       </div>
