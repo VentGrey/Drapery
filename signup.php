@@ -47,11 +47,11 @@
           <p class="advice"> Por favor complete complete los campos del formulario para darse de alta. </p>
           <hr>
           <label for="email"><b>Correo electrónico</b></label>
-          <input type="text" placeholder="Ingrese su correo aquí" name="email" required>
+          <input type="text" class="form-control" placeholder="Ingrese su correo aquí" name="email" required>
           <label for="psw"><b>Contraseña</b></label>
-          <input type="password" placeholder="Ingrese su contraseña" name="psw" required>
+          <input type="password" class="form-control" placeholder="Ingrese su contraseña" name="psw" required>
           <label for="psw-repeat"><b>Repetir contraseña</b></label>
-          <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
+          <input type="password" class="form-control" placeholder="Repeat Password" name="psw-repeat" required>
           <label>
           <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
           </label>
