@@ -153,7 +153,7 @@ form.main-window {
     border: 15px;
     border-style: solid;
     border-color: #F6F6F6;
-    border-radius: 2px;
+    border-radius: 5px;
     background-color: #F6F6F6;
 }
 
@@ -193,7 +193,12 @@ button.signupbtn {
     font-family: 'Fira Sans', sans-serif;
     font-size: 17px;
     color: #FFFFFF;
+    background-color: #74C48F;
     border: unset;
     border-radius: 5px;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 3px 10px 0 rgba(0,0,0,0.19);
+}
+
+button.signupbtn:hover {
+    background-color: #3e935b;
 }
