@@ -19,6 +19,10 @@
     <!--Fonts Inclusion-->
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,700" rel="stylesheet">
 
+    <!--Fancy Icons-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+
+
     <title> Sign Up - Drapery </title>
 
     <!--Favicons-->
@@ -42,22 +46,26 @@
   <body class="index">
     <div class="father-div">
       <div class="container">
-        <form style="border:1px solid #ccc">
+        <form class="form-group main-window">
           <h1 class="registro"> Registro </h1>
           <p class="advice"> Por favor complete complete los campos del formulario para darse de alta. </p>
           <hr>
-          <label for="email"><b>Correo electrónico</b></label>
+          <label class="sign-field" for="email"><b>Correo electrónico</b></label>
           <input type="text" class="form-control" placeholder="Ingrese su correo aquí" name="email" required>
-          <label for="psw"><b>Contraseña</b></label>
+<br>
+          <label class="sign-field" for="psw"><b>Contraseña</b></label>
           <input type="password" class="form-control" placeholder="Ingrese su contraseña" name="psw" required>
-          <label for="psw-repeat"><b>Repetir contraseña</b></label>
+<br>
+          <label class="sign-field" for="psw-repeat"><b>Repetir contraseña</b></label>
           <input type="password" class="form-control" placeholder="Repeat Password" name="psw-repeat" required>
-          <label>
-          <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
+<br>
+          <label class="sign-field">
+          <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Recordar mi contraseña
           </label>
-          <p>Al crear una cuenta estás de acuerdo con nuestros<a href="#" style="color:dodgerblue">términos & política de privacidad</a>.</p>
+<br>
+          <p class="advice">Al crear una cuenta estás de acuerdo con nuestros<a href="#" style="color:dodgerblue"> términos & política de privacidad</a>.</p>
 
-          <div class="clearfix">
+          <div>
           <button type="button" class="cancelbtn">Cancelar</button>
           <button type="submit" class="signupbtn">Registrarme</button>
           </div>
