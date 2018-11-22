@@ -202,3 +202,18 @@ button.signupbtn {
 button.signupbtn:hover {
     background-color: #3e935b;
 }
+
+/* Fin de los estilos para la creación de cuentas */
+
+/* Inicio de los estilos para la vista principal del estudiante */
+
+body.index-clear {
+    margin: 0;
+    padding: 0;
+    background-color: #F6F6F6;
+}
+
+nav.navbar-default {
+    font-family: 'Fira Sans', sans-serif;
+    background-color: #3B3633;
+}
