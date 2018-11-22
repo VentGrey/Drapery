@@ -60,7 +60,7 @@
 <br>
 <br>
       <div class="container">
-        <p class="password">Contraseña:</p>
+        <p class="password">saca el password papu :v</p>
         <br>
         <!--Campo de entrada de contraseña-->
         <input class="pass" type="password"></br></br>
@@ -74,7 +74,7 @@
         <a class="sign-up badge badge-info" href="signup.php">Crear una cuenta</a>
       </div>
       <div class="container">
-        <a class="forgot" href="">Olvidé mi contraseña</a>
+        <a class="forgot" href="">soy GIL olvidé mi contraseña</a>
       </div>
 
 
