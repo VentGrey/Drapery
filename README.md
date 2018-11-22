@@ -47,8 +47,8 @@ factores y con que porcentaje evaluará a sus alumnos de cada grupo.
 # Current Development Stage
 ## Frontend
 ### Phase: Silhouette
-- [x] Login system
-- [x] Sign up system
+- [x] Login system :heavy_check_mark:
+- [x] Sign up system [EXPERIMENTAL] [DO NOT DEPLOY]
 - [ ] Terms of service & Conditions
 - [ ] Main Page (Student)
 - [ ] Main Page (Professor)

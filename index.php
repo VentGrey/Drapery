@@ -69,6 +69,8 @@
 
         <!--Botón de inicio de sesión-->
         <input class="login-btn btn shadow-sm" type="button" value="Ingresar"></br>
+<!--EXPERIMENTAL FEATURE. PLEASE DO NOT MOVE :3 -->
+
 <!--
       <div class="container">
         <a class="sign-up badge badge-info" href="signup.php">Crear una cuenta</a>
