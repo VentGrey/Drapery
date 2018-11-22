@@ -48,7 +48,7 @@ factores y con que porcentaje evaluará a sus alumnos de cada grupo.
 ## Frontend
 ### Phase: Silhouette
 - [x] Login system
-- [ ] Sign up system
+- [x] Sign up system
 - [ ] Terms of service & Conditions
 - [ ] Main Page (Student)
 - [ ] Main Page (Professor)
