@@ -42,14 +42,37 @@
 
   </head>
 
-  <body class="index-clear">
-    <nav class="navbar navbar-dark navbar-default">
-        <a class="navbar-brand" href="#">
-            <img src="img/Drapery-text.png" height="40px" alt="The Drapery Falls">
-        </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-    </nav>
-  </body>
+    <body class="index-clear">
+        <nav class="navbar navbar-expand-lg navbar-dark navbar-default">
+            <a class="navbar-brand" href="#">
+                <img src="img/Drapery-text.png" height="50px">
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav">
+                    <div class="dropdown">
+    <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">
+     <img src="img/user.png" height="40px" width="40px">
+       <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
+      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Menu item 1</a></li>
+      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Menu item 2</a></li>
+      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Menu item 3</a></li>
+      <li role="presentation" class="divider"></li>
+      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Menu item 4</a></li>
+    </ul>
+  </div>                </ul>
+            </div>
+        </nav>
+
+    <!--Bootstrap JavaScript-->
+        <link rel="script" href="bootstrap/js/bootstrap.bundle.min.js">
+
+    <!--Bootstrap Dependencies-->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    </body>
 </html>
