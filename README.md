@@ -9,6 +9,12 @@
 Desarrollar una base de datos que sirva para la gestión de calificaciones de
 los profesores.
 
+### Antes de contribuir.
+
+Por favor tenga en cuenta los siguientes [lineamientos](CONTRIBUTING.md) antes de proseguir con el desarrollo de Drapery.
+
+
+
 #### Lineamientos:
 
 * La aplicación deberá servir para cualquier profesor.
@@ -77,7 +83,3 @@ Used color style:
 - ![#FFFFFF](https://placehold.it/15/FFFFFF/000000?text=+) `#FFFFFF` (Clear background)
 - ![#F5F5F5](https://placehold.it/15/F5F5F5/000000?text=+) `#F5F5F5` (Clear background 2)
 - ![#443D3A](https://placehold.it/15/443D3A/000000?text=+) `#443D3A` (Dark background)
-
-Example photo:
-
-![Pop_foto](https://raw.githubusercontent.com/pop-os/gtk-theme/master_cosmic/screenshots/main.png)
