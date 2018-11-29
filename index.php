@@ -55,7 +55,7 @@
             <p class="username">NUA/NUE:</p>
             <!--Campo de entrada del usuario-->
             <br>
-            <input class="usr" type="text">
+            <input class="usr" type="text" required>
             <br>
         </div>
         <br>
@@ -64,7 +64,7 @@
             <p class="password">Contraseña:</p>
             <br>
             <!--Campo de entrada de contraseña-->
-            <input class="pass" type="password">
+            <input class="pass" type="password" required>
             </br>
             </br>
         </div>
