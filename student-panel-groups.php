@@ -47,7 +47,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark navbar-default">
         <a class="navbar-brand" href="#">
             <!--Image at the left of the navigation bar-->
-            <img src="img/Drapery-text.png" height="50px">
+            <img src="img/Drapery-text.png" height="30px">
         </a>
         <!--Navigation bar toggler (Responsive, BETA)-->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -57,8 +57,8 @@
             <ul class="navbar-nav">
                 <div class="dropdown">
                     <!--User photo-->
-                    <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">
-                        <img src="img/user.png" height="40px" width="40px">
+                    <button class="btn btn-default dropdown-toggle userbtn" type="button" id="menu1" data-toggle="dropdown">
+                        <img src="img/user.png" height="30px" width="30px">
                         <span class="caret"></span>
                     </button>
                     <!--Dropdown menu when user photo is clicked-->
