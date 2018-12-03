@@ -218,6 +218,7 @@ nav.navbar-default {
     background-color: #3B3633;
 }
 
-button.userbtn {
+div.userbtn {
+    margin-left: 100%;
     float: right;
 }

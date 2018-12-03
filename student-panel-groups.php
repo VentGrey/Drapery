@@ -56,11 +56,6 @@
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav">
                 <div class="dropdown">
-                    <!--User photo-->
-                    <button class="btn btn-default dropdown-toggle userbtn" type="button" id="menu1" data-toggle="dropdown">
-                        <img src="img/user.png" height="30px" width="30px">
-                        <span class="caret"></span>
-                    </button>
                     <!--Dropdown menu when user photo is clicked-->
                     <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
                         <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Cerrar Sesión</a></li>
