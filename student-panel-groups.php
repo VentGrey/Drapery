@@ -45,7 +45,7 @@
     
     <!--Navigation bar on top of the page-->
     <nav class="navbar navbar-expand-lg navbar-dark navbar-default">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand navbar-expand-lg" href="#">
             <!--Image at the left of the navigation bar-->
             <img src="img/Drapery-text.png" height="30px">
         </a>
@@ -55,6 +55,9 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link menuitem" href="#">Inicio <span class="sr-only">(current)</span></a>
+                </li>
             </ul>
         </div>
     </nav>
