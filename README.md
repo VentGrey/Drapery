@@ -18,7 +18,13 @@ modificada y pasará a estar bajo la
 [Licencia MIT](https://choosealicense.com/licenses/mit/)
 todo el trabajo que se realize a futuro quedará bajo discusión de la comunidad.
 
+## Screenshots
 
+![Drapery_1](Screenshots/Drapery_1.png)
+
+![Drapery_2](Screenshots/Drapery_2.png)
+
+![Drapery_3](Screenshots/Drapery_3.png)
 
 ### Antes de contribuir.
 
