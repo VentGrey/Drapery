@@ -52,10 +52,11 @@
                 <h1 class="registro display-4" align="center"> Registro </h1>
                 <p class="advice" align="center"> Por favor complete complete los campos del formulario para darse de alta. </p>
                 <hr>
-
-                <label class="sign-field" align="center"> Registrarse como: </label>
-                <input type="radio" name="permission" value="Docente" required> Docente
-
+                <div class="container">
+                    <label class="sign-field" align="center"> Registrarse como: </label>
+                    <input type="radio" name="permission" value="Docente" required> Docente
+                    <input type="radio" name="permission" value="Alumno" required> Alumno
+                </div>
                 <label class="sign-field" for="email"><b>Correo electrónico</b></label>
                 <input type="text" class="form-control" placeholder="Ingrese su correo aquí" name="email" required>
                 <br>
