@@ -222,6 +222,7 @@ button.signupbtn:hover {
 
 /* Inicio de estilos para la página de recuperación de correos */
 button.recoverbtn {
+    align-self: auto;
     font-weight: normal;
     font-family: 'Fira Sans', sans-serif;
     font-size: 17px;
