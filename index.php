@@ -74,14 +74,14 @@
         </br>
         <!--EXPERIMENTAL FEATURE. PLEASE DO NOT MOVE :3 -->
 
-        <!--
+    
       <div class="container">
         <a class="sign-up badge badge-info" href="signup.php">Crear una cuenta</a>
       </div>
       <div class="container">
         <a class="forgot" href="">Olvidé mi contraseña</a>
       </div>
--->
+
 
     </div>
     <!--Bootstrap JavaScript-->
