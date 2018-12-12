@@ -54,8 +54,9 @@
                 <hr>
                 <label class="sign-field" for="email"><b>Correo electrónico</b></label>
                 <input type="text" class="form-control" placeholder="Ingrese su correo aquí" name="email" required>
+                <br>
                 <div class="container">
-                    <button type="submit" class="recoverbtn btn btn-info">Recuperar contraseña</button>
+                    <button type="submit" class="recoverbtn btn btn-info" name="submit-email">Recuperar contraseña</button>
                 </div>
             </form>
         </div>
