@@ -38,6 +38,15 @@ if(isset($_POST['submit-email']) && $_POST['email']) {
         $mail -> AddAddress('id_destinatario', 'nombre_destinatario');
         $mail -> Subject = 'Nueva contraseña';
         $mail -> IsHTML(true);
+        //TODO: Hace falta enlazar algo aquí
         $mail -> Body = 'Cuerpo del mensaje';
+
+        if($mail -> Send()) {
+            //Personalice este mensaje a su gusto :)
+            echo "Revise su correo y haga click en el enlace enviado";
+        } else {
+            echo "Error! ->".$mail -> ErrorInfo;
+        }
     }
 }
+?>
