@@ -9,23 +9,21 @@
 Desarrollar una base de datos que sirva para la gestión de calificaciones de
 los profesores.
 
+## IMPORTANTE
+
+Desde el 11/Diciembre/2018 Drapery pasará a ser perteneciente a Futurelabmx
+y será desarrollado como proyecto independiente para ser "bifurcado" por las
+organizaciones que lo requieran, la licencia del proyecto también será
+modificada y pasará a estar bajo la 
+[Licencia MIT](https://choosealicense.com/licenses/mit/)
+todo el trabajo que se realize a futuro quedará bajo discusión de la comunidad.
+
+
+
 ### Antes de contribuir.
 
-Por favor tenga en cuenta los siguientes [lineamientos](CONTRIBUTING.md) antes de proseguir con el desarrollo de Drapery.
-
-
-
-#### Lineamientos:
-
-* La aplicación deberá servir para cualquier profesor.
-* Los alumnos podrán verificar su kardex de materias, así como los registros
-que vayan teniendo (Asistencias, Calificaciones, Tareas, Exposiciones, Etc).
-* Un profesor puede gestionar uno o varios grupos.
-* Un alumno puede estar inscrito en uno o varios grupos.
-* Considerar un esquema de autenticación y autentificación.
-* Deberá haber un tablero de porcentajes donde el profesor pueda estipular que
-factores y con que porcentaje evaluará a sus alumnos de cada grupo.
-* Las entidades resultantes son suceptibles a atributos propuestos.
+Por favor tenga en cuenta los siguientes [lineamientos](CONTRIBUTING.md) antes 
+de proseguir con el desarrollo de Drapery.
 
 ## Estándares de desarrollo:
 
@@ -45,14 +43,14 @@ factores y con que porcentaje evaluará a sus alumnos de cada grupo.
 * Backend
     * PHP
     * NGINX
-    * PostgreSQl
+    * PostgreSQL
 
 * Servidor
     * Would be perfect if you take @VentGrey 's word as GOSPEL.
 
 # Current Development Stage
 ## Frontend
-### Phase: Requiem
+### Phase: Windowpane
 
 - [x] Login system :heavy_check_mark:
 - [x] Sign up system [EXPERIMENTAL] [DO NOT DEPLOY]
