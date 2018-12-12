@@ -172,6 +172,12 @@ h1.registro {
     color: #4D4844;
 }
 
+div.rad {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: bold;
+    color: #4D4844;
+}
+
 p.advice {
     font-size: 12px;
     font-weight: bold;
