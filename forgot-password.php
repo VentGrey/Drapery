@@ -45,7 +45,7 @@
 <body class="index">
     <div class="father-div">
         <div class="container">
-            <form class="form-group main-window">
+            <form  method="post" action="send-link.php" class="form-group main-window">
                 <div class="container">
                     <img src="img/drapery-pop.png" width="100" height="100" class="rounded float-left align-middle" alt="Drapery">
                 </div>
@@ -54,10 +54,6 @@
                 <hr>
                 <label class="sign-field" for="email"><b>Correo electrónico</b></label>
                 <input type="text" class="form-control" placeholder="Ingrese su correo aquí" name="email" required>
-                <br>
-                <label class="sign-field" for="email"><b>Confirmar correo electrónico</b></label>
-                <input type="text" class="form-control" placeholder="Ingrese su correo aquí" name="email" required>
-                <br>
                 <div class="container">
                     <button type="submit" class="recoverbtn btn btn-info">Recuperar contraseña</button>
                 </div>
