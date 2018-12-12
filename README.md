@@ -53,8 +53,8 @@ de proseguir con el desarrollo de Drapery.
 ### Phase: Windowpane
 
 - [x] Login system :heavy_check_mark:
-- [x] Sign up system [EXPERIMENTAL] [DO NOT DEPLOY]
-- [ ] Terms of service & Conditions
+- [x] Sign up system [Rework]
+- [ ] Terms of service & Conditions [In progress...]
 - [ ] Main Page (Student)
 - [ ] Main Page (Professor)
 - [ ] Status page (Student)
