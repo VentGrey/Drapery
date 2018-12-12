@@ -221,7 +221,20 @@ button.signupbtn:hover {
 /* Fin de los estilos para la creación de cuentas */
 
 /* Inicio de estilos para la página de recuperación de correos */
+button.recoverbtn {
+    font-weight: normal;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 17px;
+    color: #FFFFFF;
+    background-color: #FF5252;
+    border: unset;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 3px 10px 0 rgba(0,0,0,0.19);
+}
 
+button.recoverbtn:hover {
+    background-color:rgb(230, 73, 73);
+}
 /* Fin de estilos para recuperación de correos */
 
 /* Inicio de los estilos para la vista principal del estudiante */
