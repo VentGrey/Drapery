@@ -9,6 +9,10 @@
 Todo el código expresado aquí es propiedad de su autor, en su respectiva rama del proyecto, una vez el código sea unido a la rama `master` del proyecto principal
 pasará a estar bajo la [Licencia MIT](LICENSE) .
 
+# Fuente
+
+La fuente utilizada en el código es `Fira Sans`.
+
 # Estilo de código
 
 * HTML / PHP + HTML
