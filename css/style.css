@@ -121,6 +121,15 @@ input.pass:focus {
     border-bottom: 2px solid #FAA41A;
 }
 
+/* Animaciones para los campos de username y contraseña */
+input.underline-animation {
+    transition: 500ms;
+    display: inline-block;
+    bottom: 0;
+    left: -100%;
+    width: 100%;
+}
+
 input.login-btn {
     float: right;
     font-weight: bold;
