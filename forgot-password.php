@@ -22,7 +22,7 @@
     <!--Fancy Icons-->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
-    <title> Sign Up - Drapery </title>
+    <title> Recover Password - Drapery </title>
 
     <!--Favicons-->
     <link rel="apple-touch-icon" sizes="57x57" href="img/apple-icon-57x57.png">
@@ -49,34 +49,17 @@
                 <div class="container">
                     <img src="img/drapery-pop.png" width="100" height="100" class="rounded float-left align-middle" alt="Drapery">
                 </div>
-                <h1 class="registro display-4" align="center"> Registro </h1>
-                <p class="advice" align="center"> Por favor complete complete los campos del formulario para darse de alta. </p>
+                <h1 class="registro display-4" align="center">¿Olvidaste tu contraseña?</h1>
+                <p class="advice" align="center">Para recuperar tu contraseña ingresa tu dirección de correo electrónico.</p>
                 <hr>
-                <p>
-                    <div class="container rad" align="center">
-                        <label class="sign-field" align="center"> Registrarse como: </label>
-                        <input type="radio" name="permission" value="Docente" required> Docente
-                        <input type="radio" name="permission" value="Alumno" required> Alumno
-                    </div>
-                </p>
                 <label class="sign-field" for="email"><b>Correo electrónico</b></label>
                 <input type="text" class="form-control" placeholder="Ingrese su correo aquí" name="email" required>
                 <br>
-                <label class="sign-field" for="psw"><b>Contraseña</b></label>
-                <input type="password" class="form-control" placeholder="Ingrese su contraseña" name="psw" required>
+                <label class="sign-field" for="email"><b>Confirmar correo electrónico</b></label>
+                <input type="text" class="form-control" placeholder="Ingrese su correo aquí" name="email" required>
                 <br>
-                <label class="sign-field" for="psw-repeat"><b>Repetir contraseña</b></label>
-                <input type="password" class="form-control" placeholder="Repeat Password" name="psw-repeat" required>
-                <br>
-                <label class="sign-field">
-                    <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Recordar mi contraseña
-                </label>
-                <br>
-                <p class="advice">Al crear una cuenta estás de acuerdo con nuestros<a href="#" style="color:#48B9C7"> términos & política de privacidad</a>.</p>
-
-                <div>
-                    <button type="button" onclick="window.location.href='/index.php'" class="cancelbtn">Cancelar</button>
-                    <button type="submit" class="signupbtn btn btn-info">Registrarme</button>
+                <div class="container">
+                    <button type="submit" class="recoverbtn btn btn-info">Recuperar contraseña</button>
                 </div>
             </form>
         </div>
