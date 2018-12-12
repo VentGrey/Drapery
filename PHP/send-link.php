@@ -30,6 +30,14 @@ if(isset($_POST['submit-email']) && $_POST['email']) {
 
         // ELija su servidor SMTP, el default es gmail
         $mail -> Host = "smtp.gmail.com";
-
+        // Puerto del servidor (Gmail en este caso)
+        $mail -> Port = "465";
+        // Datos que se fijarán dento del correo
+        $mail -> From = 'tu_id_de_gmail@gmail.com';
+        $mail -> FromName = 'tu_nombre';
+        $mail -> AddAddress('id_destinatario', 'nombre_destinatario');
+        $mail -> Subject = 'Nueva contraseña';
+        $mail -> IsHTML(true);
+        $mail -> Body = 'Cuerpo del mensaje';
     }
 }
