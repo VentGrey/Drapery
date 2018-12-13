@@ -49,14 +49,21 @@
             <!--Image at the left of the navigation bar-->
             <img src="img/Drapery-text.png" height="30px">
         </a>
-        <!--Navigation bar toggler (Responsive, BETA)-->
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNavDropdown">
-        </div>
     </nav>
 
+    <div id="student_sidenav" class="sidenav">
+        <a href="JavaScript:void(0)" class="closebtn"
+        onclick="closenav()">&times;</a>
+        <a href="#">Ejemplo</a>
+        <a href="#">Ejemplo</a>
+        <a href="#">Ejemplo</a>
+        <a href="#">Ejemplo</a>
+        <a href="#">Ejemplo</a>
+        <a href="#">Ejemplo</a>
+        <a href="#">Ejemplo</a>
+    </div>
+
+    <span onclick="openNav()">Abrir</span>
 
     <!--Bootstrap JavaScript-->
     <link rel="script" href="bootstrap/js/bootstrap.bundle.min.js">
