@@ -72,8 +72,6 @@
                     <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Recordar mi contraseña
                 </label>
                 <br>
-                <p class="advice">Al crear una cuenta estás de acuerdo con nuestros<a href="#" style="color:#48B9C7"> términos & política de privacidad</a>.</p>
-
                 <div>
                     <button type="button" onclick="window.location.href='/index.php'" class="cancelbtn">Cancelar</button>
                     <button type="submit" class="signupbtn btn btn-info">Registrarme</button>
