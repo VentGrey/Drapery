@@ -17,8 +17,6 @@
     <!--CSS Inclusion-->
     <link rel="stylesheet" type="text/css" href="css/style.css">
 
-    <!--Materialize CSS-->
-    <link rel="stylesheet" type="text/css" href="materialize/css/materialize.min.css" media="screen,projection">
 
     <!--Import Material icons-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -74,7 +72,7 @@
         </div>
 
         <!--Botón de inicio de sesión-->
-        <button type="submit" class="login-btn waves-effect btn-small shadow-sm">Ingresar</button>
+        <button type="submit" class="login-btn waves-effect shadow-sm">Ingresar</button>
 
         </br>
         <!--EXPERIMENTAL FEATURE. PLEASE DO NOT MOVE :3 -->
@@ -89,10 +87,6 @@
 
 
     </div>
-
-    <!--Materialize JS-->
-    <script type="text/javascript" src="materialize/js/materialize.min.js"></script>
-
 
 </body>
 

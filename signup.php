@@ -17,9 +17,6 @@
     <!--CSS Inclusion-->
     <link rel="stylesheet" type="text/css" href="css/style.css">
 
-    <!--Materialize CSS-->
-    <link rel="stylesheet" type="text/css" href="materialize/css/materialize.min.css" media="screen,projection">
-
     <!--Import Material icons-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
@@ -83,8 +80,6 @@
             </form>
         </div>
     </div>
-    <!--Materialize JS-->
-    <script type="text/javascript" src="materialize/js/materialize.min.js"></script>
 
 </body>
 </html>

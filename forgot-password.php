@@ -22,9 +22,6 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
 
-    <!--Materialize CSS-->
-    <link rel="stylesheet" type="text/css" href="materialize/css/materialize.min.css" media="screen,projection">
-
     <!--Fonts Inclusion-->
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,700" rel="stylesheet">
 
@@ -67,6 +64,5 @@
             </form>
         </div>
     </div>
-    <!--Materialize JS-->
-    <script type="text/javascript" src="materialize/js/materialize.min.js"></script>
+
 </body>

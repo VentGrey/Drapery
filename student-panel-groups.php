@@ -14,15 +14,11 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
-    <!--Materialize CSS-->
-    <link rel="stylesheet" type="text/css" href="materialize/css/materialize.min.css" media="screen,projection">
-
     <!--Import Material icons-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     <!--Fonts Inclusion-->
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,700" rel="stylesheet">
-
 
     <!--CSS Inclusion-->
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -58,10 +54,6 @@
             <img src="img/Drapery-text.png" height="30px">
         </a>
     </nav>
-
-
-    <!--Materialize JS-->
-    <script type="text/javascript" src="materialize/js/materialize.min.js"></script>
 
 </body>
 </html>
