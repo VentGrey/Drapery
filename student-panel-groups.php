@@ -45,7 +45,7 @@
     
     <!--Navigation bar on top of the page-->
     <nav class="navbar navbar-expand-lg navbar-dark navbar-default">
-        <a class="navbar-brand navbar-expand-lg" href="#">
+        <a class="navbar-brand navbar-expand-lg" href="student-panel-groups.php">
             <!--Image at the left of the navigation bar-->
             <img src="img/Drapery-text.png" height="30px">
         </a>
