@@ -204,14 +204,14 @@ button.cancelbtn {
 }
 
 button.signupbtn {
-    font-weight: normal;
-    font-family: 'Fira Sans', sans-serif;
-    font-size: 17px;
-    color: #FFFFFF;
-    background-color: #74C48F;
-    border: unset;
-    border-radius: 5px;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 3px 10px 0 rgba(0,0,0,0.19);
+    font-weight: normal !important;
+    font-family: 'Fira Sans', sans-serif !important;
+    font-size: 17px !important;
+    color: #FFFFFF !important;
+    background-color: #74C48F !important;
+    border: unset !important;
+    border-radius: 5px !important;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 3px 10px 0 rgba(0,0,0,0.19) !important;
 }
 
 button.signupbtn:hover {
