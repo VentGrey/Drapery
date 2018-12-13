@@ -10,7 +10,12 @@
     <meta name="msapplication-TileImage" content="img/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
 
+
+    <!--Bootstrap CSS-->
     <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+
+    <!--Materialize CSS-->
+    <link rel="stylesheet" type="text/css" href="materialize/css/materialize.min.css">
 
     <!--Fonts Inclusion-->
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,700" rel="stylesheet">
@@ -20,6 +25,8 @@
 
     <!--CSS Inclusion-->
     <link rel="stylesheet" type="text/css" href="css/style.css">
+
+
 
     <title> ¡Bienvenido! - Drapery </title>
 
