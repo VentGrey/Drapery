@@ -15,7 +15,7 @@
     <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
 
     <!--Materialize CSS-->
-    <link rel="stylesheet" type="text/css" href="materialize/css/materialize.min.css">
+    <link rel="stylesheet" type="text/css" href="materialize/css/materialize.min.css" media="screen,projection">
 
     <!--Fonts Inclusion-->
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,700" rel="stylesheet">
