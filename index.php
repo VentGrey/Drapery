@@ -71,7 +71,7 @@
         </div>
 
         <!--Botón de inicio de sesión-->
-        <button type="submit" class="login-btn btn shadow-sm">Ingresar</button>
+        <button type="submit" class="login-btn waves-effect btn-small shadow-sm">Ingresar</button>
 
         </br>
         <!--EXPERIMENTAL FEATURE. PLEASE DO NOT MOVE :3 -->
