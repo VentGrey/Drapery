@@ -79,7 +79,7 @@
         <a class="sign-up badge badge-info" href="signup.php">Crear una cuenta</a>
       </div>
       <div class="container">
-        <a class="forgot" href="">Olvidé mi contraseña</a>
+        <a class="forgot" href="forgot-password.php">Olvidé mi contraseña</a>
       </div>
 
 
