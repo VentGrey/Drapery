@@ -70,7 +70,8 @@
         </div>
 
         <!--Botón de inicio de sesión-->
-        <input class="login-btn btn shadow-sm" type="button" value="Ingresar">
+        <button type="submit" class="login-btn btn shadow-sm">Ingresar</button>
+
         </br>
         <!--EXPERIMENTAL FEATURE. PLEASE DO NOT MOVE :3 -->
 

@@ -130,7 +130,7 @@ input.underline-animation {
     width: 100%;
 }
 
-input.login-btn {
+button.login-btn {
     float: right;
     font-weight: bold;
     font-family: 'Fira Sans', sans-serif;
