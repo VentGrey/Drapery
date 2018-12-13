@@ -10,10 +10,6 @@
     <meta name="msapplication-TileImage" content="img/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
 
-
-    <!--Bootstrap CSS-->
-    <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
-
     <!--Materialize CSS-->
     <link rel="stylesheet" type="text/css" href="materialize/css/materialize.min.css" media="screen,projection">
 
@@ -23,8 +19,6 @@
     <!--Fonts Inclusion-->
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,700" rel="stylesheet">
 
-    <!--Fancy Icons-->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
     <!--CSS Inclusion-->
     <link rel="stylesheet" type="text/css" href="css/style.css">
