@@ -83,6 +83,7 @@ halfway through the project.
 Used color style:
 
 # POP!_GTK Colors (POP! OS based)
+Since 12/12/18 some colors will be switched to materialize color palette
 
 - ![#3B3633](https://placehold.it/15/3B3633/000000?text=+) `#3B3633` (Headers)
 - ![#FAA41A](https://placehold.it/15/FAA41A/000000?text=+) `#FAA41A` (enph 1)
