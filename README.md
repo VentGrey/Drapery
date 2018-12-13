@@ -58,17 +58,24 @@ de proseguir con el desarrollo de Drapery.
 ## Frontend
 ### Phase: Windowpane
 
-- [x] Login system :heavy_check_mark:
-- [x] Sign up system [Rework]
-- [ ] Terms of service & Conditions [In progress...]
+- [ ] Login system 
+- [ ] Sign up system [Rework]
+- [ ] Password Recovery System
+- [ ] Include icons
 - [ ] Main Page (Student)
+- [ ] Sidebar navigation
+- [ ] View student info
+- [ ] View student's current period grades
+- [ ] View student's total grades
 - [ ] Main Page (Professor)
 - [ ] Status page (Student)
 - [ ] Status page (Professor)
-- [ ] Grades page (Indiv, Only student grades)
 - [ ] Global Grades Page (Mult, Only assigned student grades)
-- [ ] Fancy graphics using grades
+- [ ] Assistance chart for Professor
+- [ ] Fancy charts using grades
 - [ ] Logout screen
+
+
 
 This project is bound to change and some points may be skipped or deleted
 halfway through the project.
