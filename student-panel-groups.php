@@ -51,20 +51,6 @@
         </a>
     </nav>
 
-    <div id="student_sidenav" class="sidenav">
-        <a href="JavaScript:void(0)" class="closebtn"
-        onclick="closenav()">&times;</a>
-        <a href="#">Ejemplo</a>
-        <a href="#">Ejemplo</a>
-        <a href="#">Ejemplo</a>
-        <a href="#">Ejemplo</a>
-        <a href="#">Ejemplo</a>
-        <a href="#">Ejemplo</a>
-        <a href="#">Ejemplo</a>
-    </div>
-
-    <span onclick="openNav()">Abrir</span>
-
     <!--Bootstrap JavaScript-->
     <link rel="script" href="bootstrap/js/bootstrap.bundle.min.js">
 
