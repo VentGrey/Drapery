@@ -17,6 +17,9 @@
     <!--Materialize CSS-->
     <link rel="stylesheet" type="text/css" href="materialize/css/materialize.min.css" media="screen,projection">
 
+    <!--Import Material icons-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
     <!--Fonts Inclusion-->
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,700" rel="stylesheet">
 

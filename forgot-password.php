@@ -16,6 +16,10 @@
     <!--Bootstrap CSS-->
     <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
 
+    <!--Import Material icons-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+
     <!--Materialize CSS-->
     <link rel="stylesheet" type="text/css" href="materialize/css/materialize.min.css" media="screen,projection">
 
