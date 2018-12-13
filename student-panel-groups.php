@@ -21,7 +21,7 @@
     <!--CSS Inclusion-->
     <link rel="stylesheet" type="text/css" href="css/style.css">
 
-    <title> Login - Drapery </title>
+    <title> ¡Bienvenido! - Drapery </title>
 
     <!--Favicons-->
     <link rel="apple-touch-icon" sizes="57x57" href="img/apple-icon-57x57.png">
