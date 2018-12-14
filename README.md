@@ -15,7 +15,7 @@ Desde el 11/Diciembre/2018 Drapery pasará a ser perteneciente a Futurelabmx
 y será desarrollado como proyecto independiente para ser "bifurcado" por las
 organizaciones que lo requieran, la licencia del proyecto también será
 modificada y pasará a estar bajo la 
-[Licencia MIT](https://choosealicense.com/licenses/mit/)
+[Licencia Mozilla](https://choosealicense.com/licenses/mpl-2.0/#)
 todo el trabajo que se realize a futuro quedará bajo discusión de la comunidad.
 
 ## Screenshots
