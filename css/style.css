@@ -255,3 +255,12 @@ a.menuitem {
     font-family: 'Fira Sans', sans-serif;
     background-color: #3B3633;
 }
+
+ul.leftside {
+    margin-right: 65%;
+    float: left;
+}
+
+ul.rightside {
+    float: right;
+}
