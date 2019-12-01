@@ -17,7 +17,7 @@
 <script type="text/javascript" src="js/addons/flag.min.js"></script>
 <script type="text/javascript" src="js/addons/imagesloaded.pkgd.min.js"></script>
 <script type="text/javascript" src="js/addons/jquery.zmd.hierarchical-display.min.js"></script>
-<script type="text/javascript" src="js/addons/masonry.pkgd.js"></script>
+<script type="text/javascript" src="js/addons/masonry.pkgd.min.js"></script>
 <script type="text/javascript" src="js/addons/rating.min.js"></script>
 
 <!-- Modules -->
