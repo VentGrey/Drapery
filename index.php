@@ -7,7 +7,14 @@
     <head>
         <title>Drapery - Login</title>
     </head>
-    <body>
+    <body class="layan-dark-background">
+
+        <nav class="navbar navbar-expand-md navbar-dark layan-blue">
+            <a class="navbar-brand" href="#">
+                <img src="img/Drapery-text.png" width="50%" alt="" />
+            </a>
+        </nav>
+
         <div class="container mt-5 mb-5">
             <div class="card">
                 <h3 class="card-header layan-blue white-text text-center py-4">
