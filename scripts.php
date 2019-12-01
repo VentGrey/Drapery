@@ -10,7 +10,6 @@
 <script type="text/javascript" src="js/mdb.min.js"></script>
 
 <!-- Addons -->
-<script type="text/javascript" src="js/addons/mdb.min.js"></script>
 <script type="text/javascript" src="js/addons/datatables-select.min.js"></script>
 <script type="text/javascript" src="js/addons/datatables.min.js"></script>
 <script type="text/javascript" src="js/addons/directives.min.js"></script>
