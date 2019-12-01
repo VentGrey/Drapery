@@ -8,7 +8,13 @@
         <title>Drapery - Login</title>
     </head>
     <body>
-
+        <div class="container mt-3">
+            <div class="card">
+                <h5 class="card-header layan-blue white-text text-center py-4">
+                    <strong> Sign In </strong>
+                </h5>
+            </div>
+        </div>
         <?php include('scripts.php')?>
     </body>
 </html>
