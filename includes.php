@@ -8,3 +8,6 @@
 
 <!-- Icons (This requires an active internet connection) -->
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+
+<!-- Fonts inclusion -->
+<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
