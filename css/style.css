@@ -1,7 +1,11 @@
 html {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif !important;
 }
 
 .layan-blue {
     background-color: #7513DA;
+}
+
+.layan-text {
+    color: #7513DA;
 }
