@@ -5,12 +5,6 @@
 
 ## It's just another small school management system.
 
-
-
-
-
-
-
 ## Screenshots (Some are outdated)
 
 ![Drapery_1](Screenshots/Drapery_1.png)
