@@ -14,7 +14,6 @@
 ![Drapery_3](Screenshots/Drapery_3.png)
 
 
-
 # Current Development Stage
 ## Frontend
 - [ ] Login system 
